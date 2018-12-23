@@ -1,0 +1,131 @@
+/* Place text in the middle of the image */
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+h1 {
+    font-family: 'Tinos', serif;
+    border-bottom: 2px solid #ddc8b4;
+
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    border-bottom: 2px solid #ddc8b4;
+
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 44px;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+}
+
+.services {
+    line-height: 40px;
+    padding-top: 30px;
+}
+
+.spacer {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+li.borderless {
+    border-top: none;
+    border-bottom: none;
+}
+
+h5 {
+    font-size: 20px;
+    color: #ddc8b4;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.rowF {
+    background-color: black;
+    height: 400px;
+}
+
+.colours {
+    color: #ddc8b4;
+    margin-top: 100px;
+    margin-left: 50px;
+
+}
+
+.colours1 {
+    color: white;
+    margin-left: 50px;
+
+}
+
+.footer {
+    padding-left: 50px;
+}
+
+.footer1 {
+    padding-left: 50px;
+    padding-top: 100px;
+}
+
+.emailCol {
+    padding-left: 40px;
+}
+
+.cameraIcon {
+    padding: 40px;
+    margin-left: 26px;
+    
+}
+
+.facebookIcon {
+    padding: 40px;
+  /*  margin-left: 10px;*/
+}
+
+.phoneIcon {
+    padding-right: 5px;
+}
+
+.locationIcon {
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+}
+
+.myRow{
+    margin-left: 10px;
+}
+
+.longRow{
+    height: 800px;
+}
+
+.myRow1{
+    margin-top: 50px;
+}
+
+.myButton{
+    padding-left: 200px;
+    padding-top: 50px;
+}
+
